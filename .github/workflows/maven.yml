@@ -28,7 +28,7 @@ jobs:
       - name: Build & push Docker image
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
-          image: kjain9/kaiburr-server
+          image: kjain9/kaiburr-docker
           tags: latest
           registry: docker.io
           dockerfile: Dockerfile
