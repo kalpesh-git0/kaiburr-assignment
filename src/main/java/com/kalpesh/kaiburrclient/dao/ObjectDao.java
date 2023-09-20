@@ -1,6 +1,6 @@
-package com.akash.kaiburrclient.dao;
+package com.kalpesh.kaiburrclient.dao;
 
-import com.akash.kaiburrclient.model.ServerObject;
+import com.kalpesh.kaiburrclient.model.ServerObject;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;

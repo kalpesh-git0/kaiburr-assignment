@@ -1,4 +1,4 @@
-package com.akash.kaiburrclient.model;
+package com.kalpesh.kaiburrclient.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

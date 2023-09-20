@@ -1,7 +1,7 @@
-package com.akash.kaiburrclient.service;
+package com.kalpesh.kaiburrclient.service;
 
-import com.akash.kaiburrclient.dao.ObjectDao;
-import com.akash.kaiburrclient.model.ServerObject;
+import com.kalpesh.kaiburrclient.dao.ObjectDao;
+import com.kalpesh.kaiburrclient.model.ServerObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package com.akash.kaiburrclient.controller;
+package com.kalpesh.kaiburrclient.controller;
 
-import com.akash.kaiburrclient.model.ServerObject;
-import com.akash.kaiburrclient.service.ObjectService;
+import com.kalpesh.kaiburrclient.model.ServerObject;
+import com.kalpesh.kaiburrclient.service.ObjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
